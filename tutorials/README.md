@@ -13,3 +13,7 @@
 3. [Bayes Day Tutorial 3: Decision Theory](https://youtu.be/NMDrEANDyfI)
 4. [Bayes Day Tutorial 4: Marginalization](https://youtu.be/OVDtW6aTz1c)
 4. [Bayes Day Outro]( https://youtu.be/njSGa9__fF0 )
+
+## Decision Making Day (22 July 2020)
+### Tutorials
+1. [Tutorial 1 - Sequential Probability Ratio Test](DecisionMaking/TA_solutions/Tutorial1_SPRT_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XaqLab/course-content/blob/w2d3/tutorials/DecisionMaking/TA_solutions/Tutorial1_SPRT_solutions.ipynb)
