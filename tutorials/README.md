@@ -17,5 +17,5 @@
 ## Decision Making Day (22 July 2020)
 ### Tutorials
 1. [Tutorial 1 - Sequential Probability Ratio Test](DecisionMaking/TA_solutions/Tutorial1_SPRT_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XaqLab/course-content/blob/w2d3/tutorials/DecisionMaking/TA_solutions/Tutorial1_SPRT_solutions.ipynb)
-2. [Tutorial 2 - Hidden Markov Model](DecisionMaking/TA_solutions/Tutorial3_HMM_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XaqLab/course-content/blob/w2d3/tutorials/DecisionMaking/TA_solutions/Tutorial1_HMM_solutions.ipynb)
+2. [Tutorial 2 - Hidden Markov Model](DecisionMaking/TA_solutions/Tutorial3_HMM_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XaqLab/course-content/blob/w2d3/tutorials/DecisionMaking/TA_solutions/Tutorial3_HMM_solutions.ipynb)
 
